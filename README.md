@@ -19,6 +19,7 @@ https://coding-ghost-leejey.github.io/ghost-flex/
 
 ### Day_04.js 과제
 
+```javascript
 // every와 some을 이용해서 풀어보기
 
 let ages = [23, 17, 15, 34, 50, 5];
@@ -47,3 +48,4 @@ const str = "Hello";
 
 const arr = ["Today", "is", "Monday", "!"];
 // Quiz 11. arr를 문자열로 만들되 사이에 공백을 넣어서 작성하세요 'Today is Monday !'
+```
